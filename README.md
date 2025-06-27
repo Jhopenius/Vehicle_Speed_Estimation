@@ -17,9 +17,7 @@
  wget -P content https://github.com/AarohiSingla/Speed-detection-of-vehicles/raw/main/highway_mini.mp4
  ``` 
 4. Запустите:
- ``
  python object_tracking.py
- ```
 
 
 

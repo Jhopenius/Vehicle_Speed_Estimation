@@ -5,7 +5,7 @@
  cd Vehicle_Speed_Estimation
  ``
 2. Создайте новое окружение:
-  - Using Conda
+Используйте  Conda
  ```
  conda env create -f conda.yml
  conda activate yolov9-deepsort
